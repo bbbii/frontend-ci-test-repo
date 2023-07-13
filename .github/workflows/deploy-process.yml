@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Say Hello Frontend after CI
         run: |
-          echo "Hello Frontend after CI"
+          echo "Hello Frontent after CI"
